@@ -1,3 +1,5 @@
+This is the openexr repo with which the installation for openexr was done on the nuke-ml-server when the error popped up while running the server.py file. This is a backup in case something happens to the original repo.
+
 OpenEXR bindings for Python
 ===========================
 
